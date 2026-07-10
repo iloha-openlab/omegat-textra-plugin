@@ -3,6 +3,15 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [2026.1.0] - 2026-07-10
+
+### Changed
+- Improve credential handling
+- 
+- Update build dependencies
+    - Gradle@9.6.1, develocity@4.5.0, spotless@4.4.3, git-version@5.0.0
+    - commons-io@2.22.0, commons-lang3@3.20.0, slf4j@2.0.17
+
 ## [2025.1.1] - 2026-01-11
 
 ### Changed
@@ -283,20 +292,21 @@ Incompatible change:
 - Start project.
 
 
-[Unreleased]: https://github.com/miurahr/omegat-textra-plugin/compare/v2025.1.1...HEAD
-[2025.1.1]: https://github.com/miurahr/omegat-textra-plugin/compare/v2023.3.0...v2025.1.1
-[2023.3.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2023.2.0...v2023.3.0
-[2023.2.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2023.1.0...v2023.2.0
-[2023.1.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2022.2.3...v2023.1.0
-[2022.2.3]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2022.2.2...v2022.2.3
-[2022.2.2]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2022.2.1...v2022.2.2
-[2022.2.1]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2022.2.0...v2022.2.1
-[2022.2.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2022.1.0...v2022.2.0
-[2022.1.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2020.2.2...v2022.1.0
-[2020.2.2]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2020.2.1...v2020.2.2
-[2020.2.1]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2020.2.0...v2020.2.1
-[2020.2.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v2020.1.0...v2020.2.0
-[2020.1.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v0.11.1...v2020.1.0
+[Unreleased]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2026.1.0...HEAD
+[2026.1.1]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2025.1.0...v2026.1.0
+[2025.1.1]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2023.3.0...v2025.1.1
+[2023.3.0]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2023.2.0...v2023.3.0
+[2023.2.0]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2023.1.0...v2023.2.0
+[2023.1.0]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2022.2.3...v2023.1.0
+[2022.2.3]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2022.2.2...v2022.2.3
+[2022.2.2]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2022.2.1...v2022.2.2
+[2022.2.1]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2022.2.0...v2022.2.1
+[2022.2.0]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2022.1.0...v2022.2.0
+[2022.1.0]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2020.2.2...v2022.1.0
+[2020.2.2]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2020.2.1...v2020.2.2
+[2020.2.1]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2020.2.0...v2020.2.1
+[2020.2.0]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v2020.1.0...v2020.2.0
+[2020.1.0]: https://github.com/iloha-openlab/omegat-textra-plugin/compare/v0.11.1...v2020.1.0
 [0.11.1]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v0.11.0...v0.11.1
 [0.11.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v0.10.0...v0.11.0
 [0.10.0]: https://codeberg.org/miurahr/omegat-textra-plugin/compare/v0.9.3...v0.10.0
